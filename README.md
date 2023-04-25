@@ -6,5 +6,6 @@
 
 Tools   : Jupyter Notebook <br>
 Library : Pandas, Seaborn, Numpy, Matplotlib <br>
+Dataset :[Dataset Link](https://www.kaggle.com/datasets/knightbearr/pizza-price-prediction?select=pizza_v1.csv)
 
 This project is inspired by [Michael Wiryaseputra](https://www.linkedin.com/in/michael-wiryaseputra/)
